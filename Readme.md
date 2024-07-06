@@ -15,5 +15,4 @@ Proyek ini adalah sebuah kalkulator sederhana yang ditulis dalam bahasa pemrogra
 2. **Instal Perl**: Pastikan Perl telah terinstal di sistem Anda. Jika belum, Anda dapat mengunduh dan menginstalnya dari [perl.org](https://www.perl.org/get.html).
 3. **Jalankan Skrip**: Buka terminal atau command prompt dan jalankan skrip dengan perintah:
    ```sh
-   perl calculator.pl
-```
+   perl calculator.pl```
