@@ -16,4 +16,4 @@ Proyek ini adalah sebuah kalkulator sederhana yang ditulis dalam bahasa pemrogra
 3. **Jalankan Skrip**: Buka terminal atau command prompt dan jalankan skrip dengan perintah:
    ```sh
    perl calculator.pl
-   sh```
+   ```
